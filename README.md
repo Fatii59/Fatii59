@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Fatii59/Fatii59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Fatoma Hersi**, and I am a **software engineering student**.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jeb Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatii59&show_icons=true&theme=github_dark)
+
+## 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatii59&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Contact Me
+
+- **Email:** fatima8260@gmail.com
+- **LinkedIn:** [linkedin.com/in/Fatomahersi](www.linkedin.com/in/fatoma-hersi-b278782a4)
