@@ -5,7 +5,7 @@ I'm **Fatoma Hersi**, and I am a **software engineering student**.
 
 ## GitHub Stats
 
-![Jeb Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatii59&show_icons=true&theme=github_dark)
+![Fatii59 GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatii59&show_icons=true&theme=github_dark)
 
 ## Top Languages
 
