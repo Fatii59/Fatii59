@@ -16,4 +16,4 @@ I'm **Fatoma Hersi**, and I am a **software engineering student**.
 ## Contact Me
 
 - **Email:** fatima8260@gmail.com
-- **LinkedIn:** [linkedin.com/in/Fatomahersi](www.linkedin.com/in/fatoma-hersi-b278782a4)
+- **LinkedIn:** [linkedin.com/in/fatoma-hersi-b278782a4](https://www.linkedin.com/in/fatoma-hersi-b278782a4)
